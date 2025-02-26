@@ -1,2 +1,4 @@
 # nbc_github_repo
-test repo for github workshop
+
+## Description
+This is a test repo for the Western Regional IDeA meeting Intro to GitHub workshop.
